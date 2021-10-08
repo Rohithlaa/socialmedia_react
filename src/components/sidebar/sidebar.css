@@ -1,5 +1,5 @@
 .Sidebar{
-    flex: 3;
+    width: 20%;
     height: calc(100vh - 50px);
     overflow-y: scroll;
 }
