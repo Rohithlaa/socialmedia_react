@@ -49,6 +49,7 @@
 .rightbarProfileImg{
     width: 40px;
     height: 40px;
+    margin-left: 10px;
     border-radius: 50%;
     object-fit: cover;
 }
@@ -58,7 +59,7 @@
     border-radius: 50%;
     background-color: limegreen;
     position: absolute;
-    top: -2;
+    top: -5;
     right: 0;
     border: 2px solid white;
 }
